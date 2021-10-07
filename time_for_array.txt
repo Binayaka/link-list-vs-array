@@ -1,0 +1,25 @@
+1 leftttttt
+finished: 200000/200000
+1 leftttttt
+finished: 200000/200000
+1 leftttttt
+finished: 200000/200000
+1 leftttttt
+finished: 200000/200000
+1 leftttttt
+finished: 200000/200000
+1 leftttttt
+finished: 200000/200000
+1 leftttttt
+finished: 200000/200000
+1 leftttttt
+finished: 200000/200000
+1 leftttttt
+finished: 200000/200000
+1 leftttttt
+finished: 200000/200000
+
+finished: 10/10
+Best time    ::         0.06324 seconds
+Worst time   ::         0.075361 seconds
+Avg time     ::         0.0701579 seconds
